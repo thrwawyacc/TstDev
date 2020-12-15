@@ -1,5 +1,5 @@
 pragma solidity =0.7.0;
 
-contract test {
+contract test2 {
     address adr = address(0);
 }
